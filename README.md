@@ -1,4 +1,4 @@
-### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 ### I'm Dominique BELLO - aka 'Catevika'
 ### -- THIS PAGE IS A WORK IN PROGRESS --
 ---

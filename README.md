@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Dominique BELLO - aka 'Catevika'
+### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+### I'm Dominique BELLO - aka 'Catevika'
 ### -- THIS PAGE IS A WORK IN PROGRESS --
 ---
 ### I am a French women, self-taught Web developer, living near Paris, France 
@@ -26,4 +27,4 @@
 <img alt="Git" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png" /> <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img alt="Brave" width="72px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Brave_Logo.svg/768px-Brave_Logo.svg.png" />
 
 ---
-<p><img src="https://github-readme-stats.vercel.app/api?username=Catevika&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Catevika&amp;show_icons=true&theme=material-palenight" alt="GitHub Stats"></p>

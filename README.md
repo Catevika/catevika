@@ -1,12 +1,12 @@
-### 👋 Hi, I'm Dominique BELLO - aka Catevika
+### 👋 Hi, I'm Dominique BELLO - aka 'Catevika'
 ### -- THIS PAGE IS A WORK IN PROGRESS --
 ---
 ### I am a French women, self-taught Web developer, living near Paris, France 
 - 👀 I’m currently learning a lot and much more
 - 🧞‍♀️ I’m looking to contribute to Open Source projects
 - 🚀 2020-2021 Goals: Make my portfolio and find the web dev job of my life
-***
-Apart programming, I 💖: 
+
+### Apart programming, I 💖: 
 - 🎭 street art festivals
 - 🦄 fantasy art
 - 🎩 steampunk art

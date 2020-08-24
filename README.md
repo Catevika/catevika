@@ -41,8 +41,3 @@
 ---
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Catevika&amp;show_icons=true&theme=material-palenight" alt="GitHub Stats"></p>
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->

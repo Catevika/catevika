@@ -44,7 +44,7 @@ I'm speaking French, English and Italian
 
 ### OS, Languages, Frameworks and Tools I am interested in:
 
-<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> <img alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> <img alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> <img alt="Google Cloud" width="150px" src="https://www.gstatic.com/devrel-devsite/prod/v425077d6c7be97246d05a953898cb9591a173a3cef753a451b8729896196bc0a/cloud/images/cloud-logo.svg?dcb_=0.48544997051820915" />
+<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> <img alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> <img alt="Google Cloud" width="150px" src="https://www.gstatic.com/devrel-devsite/prod/v425077d6c7be97246d05a953898cb9591a173a3cef753a451b8729896196bc0a/cloud/images/cloud-logo.svg?dcb_=0.48544997051820915" />
 
 ---
 

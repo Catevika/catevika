@@ -6,7 +6,7 @@
 
 ---
 
-### I am a French women, self-taught Web developer, living near Paris, France
+### I am a French woman, self-taught Web developer, living near Paris, France
 
 - 👀 I’m currently learning a lot and much more
 - 🧞‍♀️ I’m looking to contribute to Open Source projects

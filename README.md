@@ -2,8 +2,6 @@
 
 ### I'm Dominique BELLO - aka 'Catevika'
 
-### -- THIS PAGE IS A WORK IN PROGRESS --
-
 ---
 
 ### I am a French woman, self-taught Web developer, living near Paris, France

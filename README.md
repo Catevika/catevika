@@ -8,7 +8,7 @@
 
 - 👀 I’m currently learning a lot and much more
 - 🧞‍♀️ I’m looking to contribute to Open Source projects
-- 🚀 2020-2021 Goals: Make my portfolio and find the web dev job of my life
+- 🚀 2021-2022 Goals: Make my portfolio and find the web dev job of my life
 
 ### Apart programming, I 💖:
 

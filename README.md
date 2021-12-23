@@ -5,12 +5,15 @@
 ---
 
 ### I am a French woman, self-taught Web developer, living near Paris, France
+### Currently:
+- 👀 learning a lot and much more and
+- 😎 building my own projects
+  
+### My goals for 2021-2022:
+- 🚀 building my portfolio and
+- 💎 finding the Frontend Web Dev job of my life
 
-- 👀 I’m currently learning a lot and much more
-- 🧞‍♀️ I’m looking to make my own projects
-- 🚀 2021-2022 Goals: Make my portfolio and find the web dev job of my life
-
-### Apart programming, I 💖:
+### Apart coding, I 💖:
 
 - 🎭 street art festivals
 - 🦄 fantasy art

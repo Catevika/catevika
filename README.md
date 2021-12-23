@@ -4,7 +4,7 @@
 
 ---
 
-### I am a French woman, self-taught Web developer, living near Paris, France
+### I am a French woman, Frontend Web Developer, living near Paris, France
 ### Currently:
 - 👀 learning a lot and much more and
 - 😎 building my own projects

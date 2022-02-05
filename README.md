@@ -9,7 +9,7 @@
 - 👀 learning a lot and much more and
 - 😎 building my own projects
   
-### My goals for 2021-2022:
+### My goals for 2022-2023:
 - 🚀 building my portfolio and
 - 💎 finding the Frontend Web Dev job of my life
 

@@ -45,7 +45,7 @@ I'm speaking French, English and Italian
 
 ### 🔥What I am interested in at the moment:
 
-<img alt="Storybook" height="48px" src="https://www.troispointzero.fr/content/uploads/2020/04/storybook-e1586160084363.jpg" />
+<img alt="Storybook" height="128px" src="https://www.troispointzero.fr/content/uploads/2020/04/storybook-e1586160084363.jpg" />
 
 ---
 

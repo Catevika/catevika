@@ -53,5 +53,3 @@
 ### 🔥What I am interested in at the moment:
 
 <img alt="MERN stack" height="128px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg" />
-
-![Catevika Github Stats](https://github-readme-stats.vercel.app/api?username=Catevika&show_icons=true&theme=shades-of-purple)

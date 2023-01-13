@@ -56,4 +56,4 @@
 
 ---
 
-![Catevika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catevika&show_icons=true&theme=merko)
+![Catevika Github Stats](https://github-readme-stats.vercel.app/api?username=Catevika&show_icons=true&theme=merko)

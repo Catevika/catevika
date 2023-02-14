@@ -52,7 +52,7 @@
 
 ### 🔥What I am interested in at the moment:
 
-<img alt="Vite" height="92px" src="https://vitejs.dev/logo.svg" />
-<img alt="Vitest" height="92px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
+VITE <img alt="Vite" height="92px" src="https://vitejs.dev/logo.svg" />
+VITEST <img alt="Vitest" height="92px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
 
-<img alt="Cypress" height="92px" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" />
+AND <img alt="Cypress" height="92px" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" />

@@ -17,9 +17,9 @@
 ### Apart coding, I 💖
 
 - 🎭 street art festivals
-- 🦄 fantasy art
-- 🎩 steampunk art
-- <img alt="Italy flag" width="18px" src="https://flagcdn.com/w2560/it.png" /> Italy is my adopted country thanks to my husband
+- 🤖 sci-fi movies and TV shows
+- 🎩 steampunk or Art Nouveau artwork
+- <img alt="Italy flag" width="18px" src="https://flagcdn.com/w2560/it.png" /> cultural getaways in Italy which is my adopted country thanks to my husband
 
 ---
 

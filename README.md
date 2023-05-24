@@ -2,7 +2,7 @@
 
 ## I'm Dominique BELLO - also known as 'Catevika'
 
-### I am a French woman, Fullstack Developer, based in Paris, France
+### I am a French woman, Fullstack Web Developer, based in Paris, France
 
 ### Currently
 
@@ -29,7 +29,7 @@
 
 ### Find me also on
 
-<a href="https://twitter.com/dominique_bello" ><img alt="Twitter" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" /> @dominique_bello</a>
+<a href="https://twitter.com/dominique_bello" ><img alt="Twitter" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" /> @dominique_bello</a>
 
 ### I'm speaking
 

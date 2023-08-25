@@ -6,20 +6,19 @@
 
 ### Currently
 
-- 👀 learning a lot and much more and
-- 😎 building my own projects
+- 👀 open for being hired at a Fullstack Web Dev position or
 
-### My goals for 2022-2023
+### My goals for 2023-2024
 
-- 🚀 building my portfolio and
-- 💎 finding the Fullstack Dev job of my life
+- 🚀 starting my new life as a Fullstack Web Dev freelancer
+- 💎 keep learning and learnig and learning
 
 ### Apart coding, I 💖
 
 - 🎭 street art festivals
 - 🤖 sci-fi movies and TV shows
 - 🎩 steampunk or Art Nouveau artwork
-- <img alt="Italy flag" width="18px" src="https://flagcdn.com/w2560/it.png" /> cultural getaways in Italy which is my adopted country thanks to my husband
+- <img alt="Italy flag" width="18px" src="https://flagpedia.net/data/flags/w702/it.webp" /> cultural getaways in Italy which is my adopted country thanks to my husband
 
 ---
 
@@ -29,7 +28,7 @@
 
 ### Find me also on
 
-<a href="https://twitter.com/dominique_bello" ><img alt="Twitter" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" /> @dominique_bello</a>
+<a href="https://twitter.com/dominique_bello"><img alt="X.com" width="20px" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000"/> @dominique_bello</a>
 
 ### I'm speaking
 
@@ -52,7 +51,7 @@
 
 ### 🔥What I am interested in at the moment:
 
-VITE <img alt="Vite" height="92px" src="https://vitejs.dev/logo.svg" />
-VITEST <img alt="Vitest" height="92px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
+VITE <img alt="Vite" height="68px" src="https://vitejs.dev/logo.svg" />
+VITEST <img alt="Vitest" height="68px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
 
-AND <img alt="Cypress" height="92px" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" />
+AND <img alt="Cypress" height="68px" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" />

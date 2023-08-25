@@ -2,7 +2,13 @@
 
 ## I'm Dominique BELLO - also known as 'Catevika'
 
-### I am a French woman, Fullstack Web Developer, based in Paris, France
+### I am a French woman, Fullstack Web Developer, focusing on the MERN stack, based in Paris, France
+
+### See my portfolio here:
+
+- [in English](https://catevika.github.io/Catevika_Portfolio-EN/)
+
+- [in French](https://catevika.github.io/Catevika_Portfolio-FR/)
 
 ### Currently
 

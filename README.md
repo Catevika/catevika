@@ -1,8 +1,8 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://github.com/Catevika/Catevika_Portfolio-EN/blob/main/android-chrome-192x192.png?raw=true" width="200px" style="border-radius: 50%;">
 
-## I'm Dominique BELLO - also known as 'Catevika'
-
-### I am a French woman, Fullstack Web Developer, focusing on the MERN stack, based in Paris, France
+I'm Dominique BELLO - also known as 'Catevika',
+Fullstack Web Developer - MERN stack,
+based in Paris, France
 
 ### See my portfolio here:
 

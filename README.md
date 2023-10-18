@@ -12,11 +12,11 @@ based in Paris, France
 
 ### Currently
 
-- 👀 open for being hired at a Fullstack Web Dev position or
+- 👀 open for being hired at a Frontend Web Dev position or
 
 ### My goals for 2023-2024
 
-- 🚀 starting my new life as a Fullstack Web Dev freelancer
+- 🚀 starting my new life as a Frontend Web Dev freelancer
 - 💎 keep learning and learnig and learning
 
 ### Apart coding, I 💖

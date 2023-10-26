@@ -10,6 +10,10 @@ based in Paris, France
 
 - [in French](https://catevika.github.io/Catevika_Portfolio-FR/)
 
+### See more advanced projects here:
+
+- [FrontendMentor/Catevika](https://www.frontendmentor.io/profile/Catevika)
+
 ### Currently
 
 - 👀 open for being hired at a Frontend Web Dev position or

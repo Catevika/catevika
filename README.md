@@ -64,4 +64,4 @@ based in Paris, France
 VITE <img alt="Vite" height="68px" src="https://vitejs.dev/logo.svg" />
 VITEST <img alt="Vitest" height="68px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
 
-AND <img alt="Cypress" height="68px" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" />
+AND <img alt="Cypress" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cypress_Software.png?uselang=fr" />

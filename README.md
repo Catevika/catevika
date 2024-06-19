@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://github.com/Catevika/Catevika_Portfolio-EN/blob/main/android-chrome-192x192.png?raw=true" width="120px" style="border-radius: 50%;">
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://www.catevikawebdev.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FCatevika.6faadd39.png&w=1080&q=75" width="120px" style="border-radius: 50%;">
 
 I'm Dominique BELLO - also known as 'Catevika',
 Frontend Web Developer - MERN stack,

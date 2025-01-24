@@ -20,7 +20,7 @@ based in Paris, France
 
 ### My goals for 2024-2025
 
-- 🚀 starting my new life as a Frontend Web Dev
+- 🚀 starting my new life as a Frontend Web Dev Freelancer
 - 💎 keep learning and learnig and learning
 
 ### Apart coding, I 💖

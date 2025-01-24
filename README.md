@@ -18,9 +18,9 @@ based in Paris, France
 
 - 👀 open for being hired at a Frontend Web Dev position or
 
-### My goals for 2023-2024
+### My goals for 2024-2025
 
-- 🚀 starting my new life as a Frontend Web Dev freelancer
+- 🚀 starting my new life as a Frontend Web Dev
 - 💎 keep learning and learnig and learning
 
 ### Apart coding, I 💖
@@ -56,12 +56,20 @@ based in Paris, France
 
 ### OS, Languages, Frameworks, Tools and Browsers I use:
 
-<img alt="Windows 11" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" /> <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> <img alt="Express.js" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" /> <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="MongoDB" height="26px" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" /> <img alt="Vercel" width="32px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
-<img alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /> <img alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /> <img alt="Git Bash" width="26px" src="https://gitforwindows.org/img/gwindows_logo.png" /> <img alt="Google" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/IOS_Google_icon.png?uselang=fr" /> <img alt="Firefox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Firefox_logo%2C_2017.png/581px-Firefox_logo%2C_2017.png" />
+<img alt="Windows 11" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" /> <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="32px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" /> <img alt="Tailwind" width="32px" /> <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="Express.js" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" /> <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="26px" alt="JWT" src="https://jwt.io/img/pic_logo.svg" /> <img alt="MongoDB" height="26px" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" /> <img alt="PostgresQL" height="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /> <img alt="Vercel" width="32px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
+<img alt="Windows 11" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" /> <img alt="Vercel" width="32px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" /> <img alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /> <img alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /> <img alt="Git Bash" width="26px" src="https://gitforwindows.org/img/gwindows_logo.png" /> <img alt="Google" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/IOS_Google_icon.png?uselang=fr" /> <img alt="Firefox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Firefox_logo%2C_2017.png/581px-Firefox_logo%2C_2017.png" />
+<img alt="Edge" width="26px" src="https://avatars.githubusercontent.com/u/11354582?s=48&v=4" /> <img alt="Vite" height="68px" src="https://vitejs.dev/logo.svg" /> <img alt="Vitest" height="68px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" /> <img alt="Cypress" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cypress_Software.png?uselang=fr" />
 
 ### 🔥What I am interested in at the moment:
 
-VITE <img alt="Vite" height="68px" src="https://vitejs.dev/logo.svg" />
-VITEST <img alt="Vitest" height="68px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
+REACT NATIVE <img alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+EXPO <img alt="EXPO" width="48px" src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" />
+TANSTACK QUERY <img alt="TanStack Query" width="48px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" />
+ZUSTAND <img alt="Zustand" width="48px" src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4" />
+STRIPE <img alt="Stripe" width="48px" src="https://avatars.githubusercontent.com/u/856813?s=48&v=4" />
+NEXTJS <img alt="Next.js" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+DRIZZLE ORM <img alt="Drizzle ORM" width="48px" src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" />
+GENEZIO <img alt="Genezio" width="48px" src="https://avatars.githubusercontent.com/u/103574863?s=48&v=4" />
+GLUESTACK-UI <img alt="Gluestack-ui" width="48px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" />
 
-AND <img alt="Cypress" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cypress_Software.png?uselang=fr" />
+

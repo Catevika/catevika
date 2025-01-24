@@ -39,6 +39,7 @@ based in Paris, France
 ### Find me also on
 
 <a href="https://twitter.com/dominique_bello"><img alt="X.com" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg"/> @dominique_bello</a>
+<a href="https://bsky.app/profile/catevika.bsky.social"><img alt="BlueSky" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"/> @catevika.bsky.social</a>
 
 ### I'm speaking
 

@@ -62,14 +62,22 @@ based in Paris, France
 
 ### 🔥What I am interested in at the moment:
 
-REACT NATIVE <img alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-EXPO <img alt="EXPO" width="48px" src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" />
-TANSTACK QUERY <img alt="TanStack Query" width="48px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" />
-ZUSTAND <img alt="Zustand" width="48px" src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4" />
-STRIPE <img alt="Stripe" width="48px" src="https://avatars.githubusercontent.com/u/856813?s=48&v=4" />
-NEXTJS <img alt="Next.js" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
-DRIZZLE ORM <img alt="Drizzle ORM" width="48px" src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" />
-GENEZIO <img alt="Genezio" width="48px" src="https://avatars.githubusercontent.com/u/103574863?s=48&v=4" />
-GLUESTACK-UI <img alt="Gluestack-ui" width="48px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" />
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React-Native
+<br />
+<img alt="EXPO" width="26px" src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" /> Expo
+<br />
+<img alt="TanStack Query" width="26px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" /> Tanstack Query
+<br />
+<img alt="Zustand" width="26px" src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4" /> Zustand 
+<br />
+<img alt="Stripe" width="26px" src="https://avatars.githubusercontent.com/u/856813?s=48&v=4" /> Stripe
+<br />
+<img alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" /> Next.js
+<br />
+<img alt="Drizzle ORM" width="26px" src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" /> Drizzle ORM
+<br />
+<img alt="Genezio" width="26px" src="https://avatars.githubusercontent.com/u/103574863?s=48&v=4" /> Genezio
+<br />
+<img alt="Gluestack-ui" width="26px" src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" /> Gluestack-UI
 
 

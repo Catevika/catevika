@@ -67,7 +67,7 @@ based in Paris, France
 <br />
 <img alt="EXPO" width="26px" src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" /> Expo
 <br />
-<img alt="TanStack Query" width="26px" src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" /> Tanstack Query
+<img alt="TanStack" width="26px" src="https://tanstack.com/images/logos/logo-color-banner-100.png" /> Tanstack
 <br />
 <img alt="Zustand" width="26px" src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4" /> Zustand 
 <br />

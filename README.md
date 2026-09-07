@@ -71,9 +71,6 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Paris, France.
   <img height="24px" alt="egghead.io" src="https://img.shields.io/badge/egghead.io-FCFBFA?variant=branded&amp;logo=egghead&amp;logoColor=black" />
 
   <img height="24px" alt="Scrimba" src="https://img.shields.io/badge/Scrimba-2B283A?variant=branded&amp;logo=scrimba&amp;logoColor=white" />
-
-// TODO - Find CSS battle
-
 </div>
 
 ### OS & Editor
@@ -201,10 +198,10 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Paris, France.
 
   <img height="24px" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?variant=branded&amp;logo=sqlite&amp;logoColor=white" />
 
-  <img height="24px" alt="Appwrite" src="  https://img.shields.io/badge/Appwrite-F02E65?variant=branded&amp;logo=Appwrite&amp;logoColor=black" />
+  <img height="24px" alt="Appwrite" src="https://img.shields.io/badge/Appwrite-F02E65?variant=branded&amp;logo=appwrite&amp;logoColor=white" />
 
-  <img height="24px" alt="Supabase" src="  https://img.shields.io/badge/Supabase-3FCFBE?variant=branded&amp;logo=supabase&amp;logoColor=white" />
-</div>
+  <img height="24px" alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCFBE?variant=branded&amp;logo=supabase&amp;logoColor=white" />
+  </div>
 
 ### APIs
 

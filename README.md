@@ -1,6 +1,6 @@
 # Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Paris, France. I'm a self-taught Frontend Web Developer with a passion for building modern, user-focused digital experiences. Since 2021, I've been continuously learning and creating projects that challenge me to grow, with a strong preference for the MERN stack and a curiosity for exploring new technologies.
+Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Ile-de-France. I'm a self-taught Full-stack Developer with a passion for building modern, user-focused digital experiences. Since 2021, I've been continuously learning and creating projects that challenge me to grow, with a strong preference for the MERN stack and a curiosity for exploring new technologies.
 
 ### See my portfolio here:
 

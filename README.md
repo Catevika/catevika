@@ -14,11 +14,11 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Ile-de-France.
 
 ### Currently
 
-- 👀 open for being hired at a Web Developer position
+- 👀 open for being hired at a Full-stack Developer position
 
 ### My goals for 2026-2027
 
-- 🚀 Find my dream job as a Web Developer
+- 🚀 Find my dream job as a Full-stack Developer
 - 💎 keep learning and learnig and learning
 
 ### Apart coding, I 💖
@@ -358,9 +358,9 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Ile-de-France.
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?variant=branded&amp;logo=kubernetes&amp;logoColor=white&amp;logoWidth=24" />
 </div>
 
-## Made with ❤️ and
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; margin-bottom: 24px">
+Made with ❤️ and <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; margin-bottom: 24px">
   <img alt="Shields.io" src="https://img.shields.io/badge/Shields.io-000000?variant=branded&amp;logo=shieldsdotio&amp;logoColor=white&amp;logoWidth=24" />
 </div>
 

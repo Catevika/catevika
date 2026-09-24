@@ -360,7 +360,5 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Ile-de-France.
 
 ---
 
-Made with ❤️ and <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; margin-bottom: 24px">
-  <img alt="Shields.io" src="https://img.shields.io/badge/Shields.io-000000?variant=branded&amp;logo=shieldsdotio&amp;logoColor=white&amp;logoWidth=24" />
-</div>
+Made with ❤️ and <img alt="Shields.io" src="https://img.shields.io/badge/Shields.io-000000?variant=branded&amp;logo=shieldsdotio&amp;logoColor=white&amp;logoWidth=24" />
 

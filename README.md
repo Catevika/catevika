@@ -351,8 +351,6 @@ Hi, I'm Dominique BELLO, also known as Catevika, and I'm based in Ile-de-France.
 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?variant=branded&amp;logo=ubuntu&amp;logoColor=white&amp;logoWidth=24"  />
 
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?variant=branded&amp;logo=linux&amp;logoColor=black&amp;logoWidth=24"  />
-
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?variant=branded&amp;logo=docker&amp;logoColor=white&amp;logoWidth=24"  />
 
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?variant=branded&amp;logo=kubernetes&amp;logoColor=white&amp;logoWidth=24" />
